@@ -25,7 +25,7 @@ BunnyDefender.Preloader.prototype = {
 		this.load.image('hill', 'images/hill.png');
 		this.load.image('sky', 'images/sky.png');
 		this.load.atlasXML('bunny', 'images/spritesheets/bunny.png', 'images/spritesheets/bunny.xml');
-		this.load.atlasXML('spacerock', 'images/spritesheets/spacerock.png', 'images/spritesheets/spacerock.xml');
+		this.load.atlasXML('spacerock', 'images/spritesheets/SpaceRock.png', 'images/spritesheets/SpaceRock.xml');
 		this.load.image('explosion', 'images/explosion.png');
 		this.load.image('ghost','images/ghost.png');
 		this.load.audio('explosion_audio', 'audio/explosion.mp3');
